@@ -1,2 +1,2 @@
 # MagicPlast
-Distribucción de Plástico 
+Distribucción de Plástico y multiusos
